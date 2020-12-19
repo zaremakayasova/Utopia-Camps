@@ -8,6 +8,8 @@ The application is hosted on heroku and can be accessed at the below web address
 https://boiling-taiga-61964.herokuapp.com/
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/71195337/102698542-18ea9680-420c-11eb-99ff-eeb43c66411b.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/71195337/102698840-61a34f00-420e-11eb-85d6-7aa1450ff3e7.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/71195337/102698854-84356800-420e-11eb-9bf0-94b0ed9613b9.png)
 
 ## Overview
 - Utopia Camps is a web application where registered users can create new campgrounds, edit and delete their campgrounds, review and rate other users' campgrounds.
