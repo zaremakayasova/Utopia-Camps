@@ -7,6 +7,8 @@ A Node.js web application project from the Udemy course - [The Web Developer Boo
 The application is hosted on heroku and can be accessed at the below web address:
 https://boiling-taiga-61964.herokuapp.com/
 
+![Screenshot (1)](https://user-images.githubusercontent.com/71195337/102698542-18ea9680-420c-11eb-99ff-eeb43c66411b.png)
+
 ## Overview
 - Utopia Camps is a web application where registered users can create new campgrounds, edit and delete their campgrounds, review and rate other users' campgrounds.
 - In order to create, edit, delete or review a campground, user must be a registered user and be logged in.
