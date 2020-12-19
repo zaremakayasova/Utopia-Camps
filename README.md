@@ -19,6 +19,24 @@ https://boiling-taiga-61964.herokuapp.com/
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/71195337/102698854-84356800-420e-11eb-9bf0-94b0ed9613b9.png) 
 
+###### New Campground page
+
+![Screenshot (7)](https://user-images.githubusercontent.com/71195337/102699368-23a82a00-4212-11eb-8a9e-45e741513aca.png)
+
+###### Campgrounds Edit page
+
+![Screenshot (6)](https://user-images.githubusercontent.com/71195337/102699389-44707f80-4212-11eb-86d6-1171ec8e0c3f.png)
+
+###### Login
+
+![Screenshot (4)](https://user-images.githubusercontent.com/71195337/102699316-b09eb380-4211-11eb-8063-ba1a1fef68f5.png)
+
+###### Register
+
+![Screenshot (5)](https://user-images.githubusercontent.com/71195337/102699335-ca3ffb00-4211-11eb-9c4e-e05f3635114f.png)
+
+
+
 ## Overview
 - Utopia Camps is a web application where registered users can create new campgrounds, edit and delete their campgrounds, review and rate other users' campgrounds.
 - In order to create, edit, delete or review a campground, user must be a registered user and be logged in.
