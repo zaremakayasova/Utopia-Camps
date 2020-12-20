@@ -52,7 +52,7 @@ https://boiling-taiga-61964.herokuapp.com/
 - Authentication and authorization for Edit, Update and Delete routes.
 - Register and Login.
 
-# Technologies Used
+## Technologies Used
  ## Front-End: 
  - HTML5
  - CSS3
