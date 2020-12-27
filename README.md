@@ -27,13 +27,13 @@ https://boiling-taiga-61964.herokuapp.com/
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/71195337/102699389-44707f80-4212-11eb-86d6-1171ec8e0c3f.png)
 
-###### Login
-
-![Screenshot (4)](https://user-images.githubusercontent.com/71195337/102699316-b09eb380-4211-11eb-8063-ba1a1fef68f5.png)
-
 ###### Register
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/71195337/102699335-ca3ffb00-4211-11eb-9c4e-e05f3635114f.png)
+
+###### Login
+
+![Screenshot (4)](https://user-images.githubusercontent.com/71195337/102699316-b09eb380-4211-11eb-8063-ba1a1fef68f5.png)
 
 
 
